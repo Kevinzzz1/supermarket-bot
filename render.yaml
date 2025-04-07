@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: supermarket-bot
-    env: php
-    plan: free
-    buildCommand: ""
-    startCommand: ""
-    staticPublishPath: public
